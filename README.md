@@ -1,5 +1,8 @@
-### Hi there 👋
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
+### Hi there 👋
+- 😄 My Blog is www.auswitz.top
+- 🎓 Studying Computer Science
 <!--
 **aosiweixin/aosiweixin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
