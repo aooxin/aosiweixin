@@ -1,5 +1,3 @@
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-
 ### Hi there 👋
 - 😄 My Blog is www.auswitz.top
 - 🎓 Studying Computer Science
